@@ -4,11 +4,12 @@
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
 
 ## !YOU NEED TAMPERMONKEY!
-**[Install Script](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/blob/main/tusdino.user.js)**
+**[Install Script](https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/blob/main/tusdino.user.js)**
 
 **It would be great if you left a star! It would help with motivation.**
 
-[![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/) [![Github](https://img.shields.io/github/downloads/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/nonumbershere/TusDino/releases/latest)
+[![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
+[![Github](https://img.shields.io/github/downloads/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/releases/latest)
 
 ## About
 TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school.
