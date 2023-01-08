@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ＴｕｓＤｉｎｏ || BEST CHROME DINO GAME T-REX MOD MENU CHEAT - (0.15.1)
-// @namespace    https://github.com/nonumbershere/TusDino
+// @namespace    https://github.com/Fault-Utilities
 // @homepage     https://discord.gg/6eaDrx5J9s
 // @version      0.15.1
 // @description  THE BEST CHROME DINO HACK: SET SPEED, KILL PLAYER, ESP, NO-CLIP, TRACERS, TELEPORT, FLY +MORE EXPLOITS
@@ -18,7 +18,7 @@
 // @match        *://24glo.com/game/dino-play.html
 // @match        *://fivesjs.skipser.com/trex-game/
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
-// @icon         https://github.com/nonumbershere/TusDino/blob/main/assets/Logo.png?raw=true
+// @icon         https://github.com/Fault-Utilities/blob/main/assets/Logo.png?raw=true
 // @run-at       document-start
 // @grant        unsafeWindow
 // ==/UserScript==
@@ -939,7 +939,7 @@ this.canvasCtx.shadowBlur=0;
     color: lightblue;
     float: right;
     margin-right: 11px;
-">Discord</a><a href="https://github.com/nonumbershere/TusDino/" style="
+">Discord</a><a href="https://github.com/Fault-Utilities/" style="
     font-size: 17px;
     color: lightblue;
     float: right;
@@ -1017,7 +1017,7 @@ this.canvasCtx.shadowBlur=0;
           <p>
           </div>
           <div class="tradingpage" id="tradingpagesettings" style="">
-          <p>Coming Soon</p><br><a href="https://github.com/nonumbershere/TusDino/issues">Report an issue</a> • <a href="https://github.com/nonumbershere/TusDino/discussions/new?category=suggestions">Suggest something</a>
+          <p>Coming Soon</p><br><a href="https://github.com/Fault-Utilities/issues">Report an issue</a> • <a href="https://github.com/Fault-Utilities/discussions/new?category=suggestions">Suggest something</a>
           </div>
           <div class="tradingpage" id="tradingpagemovement" style="">
 <div class="tradinginputset"><button id="setspeed" title="Sets your players speed, if you put too much it can bug out">Set Speed</button><input id="setspeedcheatinput" style="
@@ -1309,25 +1309,25 @@ this.canvasCtx.shadowBlur=0;
         }
  
         var skins = {
-            'default': 'https://github.com/nonumbershere/TusDino/blob/main/skins/default.png?raw=true',
-            'batman': 'https://github.com/nonumbershere/TusDino/blob/main/skins/batman%20colored.png?raw=true',
-            'dinocol2': 'https://github.com/nonumbershere/TusDino/blob/main/skins/dino%20colored%202.png?raw=true',
-            'dinocol': 'https://github.com/nonumbershere/TusDino/blob/main/skins/dino%20colored.png?raw=true',
-            'godzilla': 'https://github.com/nonumbershere/TusDino/blob/main/skins/godzilla.png?raw=true',
-            'joker': 'https://github.com/nonumbershere/TusDino/blob/main/skins/joker.png?raw=true',
-            'mario2': 'https://github.com/nonumbershere/TusDino/blob/main/skins/mario%202.png?raw=true',
-            'mariocol2': 'https://github.com/nonumbershere/TusDino/blob/main/skins/mario%20colored%202.png?raw=true',
-            'mariocol': 'https://github.com/nonumbershere/TusDino/blob/main/skins/mario%20colored.png?raw=true',
-            'mario': 'https://github.com/nonumbershere/TusDino/blob/main/skins/mario.png?raw=true',
-            'minecraft': 'https://github.com/nonumbershere/TusDino/blob/main/skins/minecraft.png?raw=true',
-            'naruto': 'https://github.com/nonumbershere/TusDino/blob/main/skins/naruto%20colored.png?raw=true',
-            'noface': 'https://github.com/nonumbershere/TusDino/blob/main/skins/noface%20halloween.png?raw=true',
-            'nyancat': 'https://github.com/nonumbershere/TusDino/blob/main/skins/nyan%20cat.png?raw=true',
-            'pikachu': 'https://github.com/nonumbershere/TusDino/blob/main/skins/pikachu.png?raw=true',
-            'santa': 'https://github.com/nonumbershere/TusDino/blob/main/skins/santa%20colored.png?raw=true',
-            'soniccol2': 'https://github.com/nonumbershere/TusDino/blob/main/skins/sonic%20colored%202.png?raw=true',
-            'soniccol': 'https://github.com/nonumbershere/TusDino/blob/main/skins/sonic%20colored.png?raw=true',
-            'sonic': 'https://github.com/nonumbershere/TusDino/blob/main/skins/sonic.png?raw=true'
+            'default': 'https://github.com/Fault-Utilities/blob/main/skins/default.png?raw=true',
+            'batman': 'https://github.com/Fault-Utilities/blob/main/skins/batman%20colored.png?raw=true',
+            'dinocol2': 'https://github.com/Fault-Utilities/blob/main/skins/dino%20colored%202.png?raw=true',
+            'dinocol': 'https://github.com/Fault-Utilities/blob/main/skins/dino%20colored.png?raw=true',
+            'godzilla': 'https://github.com/Fault-Utilities/blob/main/skins/godzilla.png?raw=true',
+            'joker': 'https://github.com/Fault-Utilities/blob/main/skins/joker.png?raw=true',
+            'mario2': 'https://github.com/Fault-Utilities/blob/main/skins/mario%202.png?raw=true',
+            'mariocol2': 'https://github.com/Fault-Utilities/blob/main/skins/mario%20colored%202.png?raw=true',
+            'mariocol': 'https://github.com/Fault-Utilities/blob/main/skins/mario%20colored.png?raw=true',
+            'mario': 'https://github.com/Fault-Utilities/blob/main/skins/mario.png?raw=true',
+            'minecraft': 'https://github.com/Fault-Utilities/blob/main/skins/minecraft.png?raw=true',
+            'naruto': 'https://github.com/Fault-Utilities/blob/main/skins/naruto%20colored.png?raw=true',
+            'noface': 'https://github.com/Fault-Utilities/blob/main/skins/noface%20halloween.png?raw=true',
+            'nyancat': 'https://github.com/Fault-Utilities/blob/main/skins/nyan%20cat.png?raw=true',
+            'pikachu': 'https://github.com/Fault-Utilities/blob/main/skins/pikachu.png?raw=true',
+            'santa': 'https://github.com/Fault-Utilities/blob/main/skins/santa%20colored.png?raw=true',
+            'soniccol2': 'https://github.com/Fault-Utilities/blob/main/skins/sonic%20colored%202.png?raw=true',
+            'soniccol': 'https://github.com/Fault-Utilities/blob/main/skins/sonic%20colored.png?raw=true',
+            'sonic': 'https://github.com/Fault-Utilities/blob/main/skins/sonic.png?raw=true'
         };
  
         function setSki(i) {
