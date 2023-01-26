@@ -10,7 +10,7 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 
 **It would be great if you left a star! It would help with motivation.**
 
-[![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
+[![Greasyfork (No longer avaliable)](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
 [![Github](https://img.shields.io/github/downloads/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/releases/latest)
 
 ## About
@@ -30,7 +30,7 @@ TusDino was created by Lapide, and designed make the game more fun. It's just fu
 
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
-- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) or [GreasyFork](), Github is recommended since it might have a newer update than GreasyFork.
+- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js).
 - If you see the script on TamperMonkey, it means you did it correctly. Congrats!
 - *If you don't see the script then try to redo the Installation process*
 
