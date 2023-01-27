@@ -11,7 +11,7 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 ## About
 TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
 
-I'll also be releasing in on Greasyfork and the unobfuscated source code, along with the menu so you can use it in your projects!
+I'll also be releasing it on Greasyfork and the unobfuscated source code, along with the menu and code snippets so you can use it in your projects soon!
 
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
