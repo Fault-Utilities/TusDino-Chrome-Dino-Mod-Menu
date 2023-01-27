@@ -1,7 +1,5 @@
 **By Lapide**
 
-# This person stole the cheat and claimed it as their own: https://github.com/NoahNinja100/exploits/tree/main/dinogame
-
 # TusDino 0.15.1
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
 
@@ -94,6 +92,9 @@ TusDino was created by Lapide, and designed make the game more fun. It's just fu
 
 *I tried to add as much features as I can on 1.15.1, I ran out of Ideas, if you have an idea Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
 
+## Thieves
+- [NoahNinja100](https://github.com/NoahNinja100/exploits/tree/main/dinogame)
+
 ## Images
 ![image](https://user-images.githubusercontent.com/64395933/210926671-344bb9af-93d0-4969-bd54-b354028e78b6.png)
 ![image](https://user-images.githubusercontent.com/64395933/210926683-cea75595-8889-4852-bf14-ebe7ae5840de.png)
@@ -101,4 +102,3 @@ TusDino was created by Lapide, and designed make the game more fun. It's just fu
 ![image](https://user-images.githubusercontent.com/64395933/210926703-bdedbca9-59f7-407c-9683-0aa8f9633ee5.png)
 ![image](https://user-images.githubusercontent.com/64395933/210926710-55f6f022-25b3-45a6-8be1-1f95f7f7f510.png)
 ![image](https://user-images.githubusercontent.com/64395933/210926763-c6a27928-b3ba-47e7-a0e7-0a052e423575.png)
-# This person stole the cheat and claimed it as their own: https://github.com/NoahNinja100/exploits/tree/main/dinogame
