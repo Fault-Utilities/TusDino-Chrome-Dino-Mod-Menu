@@ -4,12 +4,25 @@
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
 
 ## !YOU NEED TAMPERMONKEY!
-**[Install Script](https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/blob/main/tusdino.user.js)**
+* **[Install Latest Script from Github](https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/blob/main/tusdino.user.js)**
 
 **It would be great if you left a star! It would help with motivation.**
 
 ## About
-TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school.
+TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
+
+I'll also be releasing in on Greasyfork and the unobfuscated source code, along with the menu so you can use it in your projects!
+
+## Installation Insructions
+- Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
+- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js).
+- If you see the script on TamperMonkey, it means you did it correctly. Congrats!
+- *If you don't see the script then try to redo the Installation process*
+## Socials
+- [Discord](https://discord.gg/6eaDrx5J9s)
+- [Twitter](https://twitter.com/LapideDev)
+- [YouTube](https://www.youtube.com/watch?v=ZdfO_ocV8PI)
+- [Fault Utilities Website](https://fault-utilities.glitch.me/)
 
 ## Supported Sites
 - **https://chromedino.com/** - Preffered Site
@@ -22,17 +35,6 @@ TusDino was created by Lapide, and designed make the game more fun. It's just fu
 - https://elgoog.im/t-rex/
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
-
-## Installation Insructions
-- Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
-- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js).
-- If you see the script on TamperMonkey, it means you did it correctly. Congrats!
-- *If you don't see the script then try to redo the Installation process*
-
-## Socials
-- [Discord](https://discord.gg/6eaDrx5J9s)
-- [Twitter](https://twitter.com/LapideDev)
-- [YouTube](https://www.youtube.com/watch?v=ZdfO_ocV8PI)
 
 ## Features 0.15.1 (40+ Cheats)
 - Player Tab
