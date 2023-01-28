@@ -94,7 +94,7 @@ I'll also be releasing it on Greasyfork and the unobfuscated source code, along 
 
 *I tried to add as much features as I can on 1.15.1, I ran out of Ideas, if you have an idea Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
 
-## Thieves
+## Thieves / Stole the entire code
 - [NoahNinja100](https://github.com/NoahNinja100/exploits/tree/main/dinogame)
 
 ## Images
