@@ -1,4 +1,10 @@
 **By Lapide**
+### Note
+> **I stopped development for this project and won't be working on it for a while. I'll probably be working on it again sometime!**
+
+> The reasons why I stopped working was because people stole my entire code and claimed it as their own, lack of motivation and I ran out of ideas. But, I still plan on releasing the unobfuscated source code and publishing it on Greasyfork.
+
+> ***Of course, this project will still stay up for people to use!***
 
 # TusDino 0.15.1
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
