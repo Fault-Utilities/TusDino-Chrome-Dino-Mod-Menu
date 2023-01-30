@@ -10,7 +10,7 @@
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
 
 ## !YOU NEED TAMPERMONKEY!
-* **[Install Latest Script from Github](https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/blob/main/tusdino.user.js)**
+* **[Install Latest Script from Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js)**
 
 **It would be great if you left a star! It would help with motivation.**
 
