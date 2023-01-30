@@ -9,13 +9,18 @@
 # TusDino 0.15.1
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. 
 
-**You need to install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or any userscript manager or the script wont work**
-##### If you're not on chrome, then you can check out [other userscript managers for your browser](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu#userscript-managers)
-
 [![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js)
 
-## !YOU NEED [TAMPERMONKEY](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)!
-* **[Install Latest Script from Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js)**
+**You need to install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or any userscript manager or the script wont work**
+
+If you're not on chrome, then you can check out [other userscript managers for your browser](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu#userscript-managers)
+
+## Installation Insructions
+- Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended. If you're not on chrome, then you can search for other userscript managers for your browser.
+- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js).
+- If you see the script on TamperMonkey, it means you did it correctly. Congrats!
+- Go to the [game](https://chromedino.com/)
+- *If you don't see the script then try to redo the Installation process*
 
 **It would be great if you left a star! It would help with motivation.**
 
@@ -24,11 +29,6 @@ TusDino was created by Lapide, and designed make the game more fun. It's just fu
 
 I'll also be releasing it on Greasyfork and the unobfuscated source code, along with the menu and code snippets so you can use it in your projects soon!
 
-## Installation Insructions
-- Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
-- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js).
-- If you see the script on TamperMonkey, it means you did it correctly. Congrats!
-- *If you don't see the script then try to redo the Installation process*
 ## Socials
 - [Discord](https://discord.gg/6eaDrx5J9s)
 - [Twitter](https://twitter.com/LapideDev)
