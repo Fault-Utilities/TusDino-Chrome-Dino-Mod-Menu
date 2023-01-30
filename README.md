@@ -7,9 +7,14 @@
 > ***Of course, this project will still stay up for people to use!***
 
 # TusDino 0.15.1
-TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
+TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. 
 
-## !YOU NEED TAMPERMONKEY!
+**You need to install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or any userscript manager or the script wont work**
+##### If you're not on chrome, then you can check out [other userscript managers for your browser](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu#userscript-managers)
+
+[![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js)
+
+## !YOU NEED [TAMPERMONKEY](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)!
 * **[Install Latest Script from Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js)**
 
 **It would be great if you left a star! It would help with motivation.**
@@ -110,3 +115,15 @@ I'll also be releasing it on Greasyfork and the unobfuscated source code, along 
 ![image](https://user-images.githubusercontent.com/64395933/210926703-bdedbca9-59f7-407c-9683-0aa8f9633ee5.png)
 ![image](https://user-images.githubusercontent.com/64395933/210926710-55f6f022-25b3-45a6-8be1-1f95f7f7f510.png)
 ![image](https://user-images.githubusercontent.com/64395933/210926763-c6a27928-b3ba-47e7-a0e7-0a052e423575.png)
+
+# Userscript Managers
+**These are a list of the best userscript managers for your supported browsers.**
+- Chrome
+  - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+  - [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)
+- Firefox
+  - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+  - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+  - [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)
+- Opera / Opera GX
+  - [Tampermonkey Beta](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
