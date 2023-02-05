@@ -105,9 +105,6 @@ I'll also be releasing it on Greasyfork and the unobfuscated source code, along 
 
 *I tried to add as much features as I can on 1.15.1, I ran out of Ideas, if you have an idea Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
 
-## Thieves / Stole the entire code
-- [NoahNinja100](https://github.com/NoahNinja100/exploits/tree/main/dinogame)
-
 ## Images
 ![image](https://user-images.githubusercontent.com/64395933/210926671-344bb9af-93d0-4969-bd54-b354028e78b6.png)
 ![image](https://user-images.githubusercontent.com/64395933/210926683-cea75595-8889-4852-bf14-ebe7ae5840de.png)
