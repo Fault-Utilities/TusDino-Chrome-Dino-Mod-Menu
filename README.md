@@ -27,7 +27,7 @@ If you're not on chrome, then you can check out [other userscript managers for y
 ## About
 TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
 
-I'll also be releasing it on Greasyfork and the unobfuscated source code, along with the menu and code snippets so you can use it in your projects soon!
+I won't be publishing updated code on this for sometime
 
 ## Socials
 - [Discord](https://discord.gg/6eaDrx5J9s)
