@@ -1,10 +1,6 @@
 **By Lapide**
 ### Note
-> **I stopped development for this project and won't be working on it for a while. I'll probably be working on it again sometime!**
-
-> The reasons why I stopped working was because people stole my entire code and claimed it as their own, lack of motivation and I ran out of ideas. But, I still plan on releasing the unobfuscated source code and publishing it on Greasyfork.
-
-> ***Of course, this project will still stay up for people to use!***
+> **I decided to work on this project again, I'll release the unobfuscated code and release it on Greasyfork.**
 
 # TusDino 0.15.1
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
@@ -27,7 +23,7 @@ If you're not on chrome, then you can check out [other userscript managers for y
 ## About
 TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
 
-I won't be publishing updated code on this for sometime
+You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
 
 ## Socials
 - [Discord](https://discord.gg/6eaDrx5J9s)
