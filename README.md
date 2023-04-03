@@ -2,10 +2,10 @@
 ### Note
 > **I decided to work on this project again, I'll release the unobfuscated code and release it on Greasyfork.**
 
-# TusDino 0.15.1
+# TusDino 0.16.2
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
 
-[![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js)
+[![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
 
 **You need to install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or any userscript manager or the script wont work**
 
@@ -13,7 +13,7 @@ If you're not on chrome, then you can check out [other userscript managers for y
 
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended. If you're not on chrome, then you can search for other userscript managers for your browser.
-- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js).
+- Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) or [Greasyfork](https://greasyfork.org/en/scripts/457594).
 - If you see the script on TamperMonkey, it means you did it correctly. Congrats!
 - Go to the [game](https://chromedino.com/)
 - *If you don't see the script then try to redo the Installation process*
@@ -43,7 +43,13 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
 
-## Features 0.15.1 (40+ Cheats)
+## What's new in 0.16.2
+- Released unobfuscated code
+- Uploaded on Greasyfork (again)
+- Added content to settings page
+- New developer tab (WIP)
+
+## Features 0.16.2 (40+ Cheats)
 - Player Tab
   - Invisibility
   - Teleport X axis 
@@ -99,7 +105,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
   - Rainbow Square Player
   - Storm Cloud
 
-*I tried to add as much features as I can on 1.15.1, I ran out of Ideas, if you have an idea Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
+*If you have an idea, request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
 
 ## Images
 ![image](https://user-images.githubusercontent.com/64395933/210926671-344bb9af-93d0-4969-bd54-b354028e78b6.png)
