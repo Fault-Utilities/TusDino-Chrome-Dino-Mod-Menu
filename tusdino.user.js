@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         ＴｕｓＤｉｎｏ || BEST CHROME DINO GAME T-REX MOD MENU CHEAT - (0.16.2)
-// @namespace    https://github.com/nonumbershere/TusDino
-// @homepageURL  https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu
-// @supportURL   https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues
+// @namespace    https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/
+// @homepageURL  https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/
+// @supportURL   https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues
 // @homepage     https://discord.gg/6eaDrx5J9s
 // @version      0.16.2
 // @description  THE BEST CHROME DINO HACK: SET SPEED, KILL PLAYER, ESP, NO-CLIP, TRACERS, TELEPORT, FLY +MORE EXPLOITS
