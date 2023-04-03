@@ -13,6 +13,11 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 
 If you're not on chrome, then you can check out [other userscript managers for your browser](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu#userscript-managers)
 
+## About
+TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
+
+You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
+
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended. If you're not on chrome, then you can search for other userscript managers for your browser.
 - Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) or [Greasyfork](https://greasyfork.org/en/scripts/457594).
@@ -20,10 +25,9 @@ If you're not on chrome, then you can check out [other userscript managers for y
 - Go to the [game](https://chromedino.com/)
 - *If you don't see the script then try to redo the Installation process*
 
-## About
-TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
-
-You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
+## Help / Mod Info
+- Press 'j' to hide or show the menu
+- This cheat doesn't bypass any cheat detection, so beware
 
 ## Socials
 - [Discord](https://discord.gg/6eaDrx5J9s)
@@ -50,6 +54,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - New developer tab (WIP)
 
 ## Features 0.16.2 (40+ Cheats)
+-- **Press 'j' to hide / show the menu.** --
 - Player Tab
   - Invisibility
   - Teleport X axis 
