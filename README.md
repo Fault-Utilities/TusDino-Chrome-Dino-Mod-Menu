@@ -16,6 +16,12 @@ TusDino was created by Lapide, and designed make the game more fun. It's just fu
 
 You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
 
+## What's new in 0.16.2
+- Released unobfuscated code
+- Uploaded on Greasyfork (again)
+- Added content to settings page
+- New developer tab (WIP)
+
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended. If you're not on chrome, then you can search for other userscript managers for your browser.
 - Download the script from [Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) or [Greasyfork](https://greasyfork.org/en/scripts/457594). Get the [Auto Updater Script from Github](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/autoupdate_tusdino.user.js) if you want the automatically updated versions.
@@ -44,12 +50,6 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://elgoog.im/t-rex/
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
-
-## What's new in 0.16.2
-- Released unobfuscated code
-- Uploaded on Greasyfork (again)
-- Added content to settings page
-- New developer tab (WIP)
 
 ## Features 0.16.2 (40+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
