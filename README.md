@@ -1,5 +1,5 @@
 **By Lapide**
-# TusDino 0.16.2
+# TusDino 0.17.0
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
 ***It would be great if you left a star! It would help with motivation and development.***
 
@@ -12,15 +12,23 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 If you're not on chrome, then you can check out [other userscript managers for your browser](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu#userscript-managers)
 
 ## About
-TusDino was created by Lapide, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
+TusDino was created by Lapide with the help of inon-13, and designed make the game more fun. It's just fun project that I work on when I have free time or out of school. I created this since I was bored and was looking for something to do for a few days!
 
 You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
 
-## What's new in 0.16.2
-- Released unobfuscated code
-- Uploaded on Greasyfork (again)
-- Added content to settings page
-- New developer tab (WIP)
+## What's new in 0.17.0
+- **New Developer: [inon-13](https://github.com/inon-13)**
+- Added Darkmode
+- Changed developer tab to Miscs/Special
+- Moved a lot of cheats to Miscs/Special
+- Added Arc
+- Added Instant Respawn
+- Added Glide
+- UI Change
+- Added Set FPS
+- Added Auto Focus
+- Added Force Focus
+- Added Credits & Set Menu scale in Settings
 
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended. If you're not on chrome, then you can search for other userscript managers for your browser.
@@ -51,17 +59,23 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
 
-## Features 0.16.2 (40+ Cheats)
+## Features 0.17.0 (40+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
 - Player Tab
+  - Instant Respawn
   - Invisibility
-  - Teleport X axis 
-  - Teleport Y axis
+  - Bhop
+  - Teleport X axis
+  - Restart
+  - Teleport Y Axis
   - Kill Player
   - Autoplayer
-  - Set Gravity 
-  - Set Skin
+  - Set Gravity
+  - Set Skin (Buggy)
 - Game Tab
+  - Set FPS
+  - Auto Focus
+  - Force Focus
   - Set Game Speed
   - Obstacle Float
   - Duck and Jump
@@ -73,7 +87,6 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
   - Mute Game
   - Force Pause Game
   - Pause
-  - Restart
   - No Clip
   - Obliterate Obstacles
   - Set Score Speed
@@ -85,6 +98,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
   - Add Obstacle
   - Set Ground Y
 - Movement Tab
+  - Glide
   - Set Speed
   - Fly
   - High Jump
@@ -107,16 +121,36 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
   - Rainbow Background
   - Rainbow Square Player
   - Storm Cloud
+  - Obstacle Float
+  - Arc
+- Others Tab
+  - Dark Game Mode
+  - No Obstacle
+  - Lazer Vision
+  - Lazer Vision Key (L)
+  - No Clip
+  - Obliterate Obstacles
+  - Add Cloud
+  - Remove Cloud
+  - Remove All Clouds
+  - Remove Near Obstacles
+  - Remove Obstacle
+  - Add Obstacle
 
 *If you have an idea, request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
 
 ## Images
-![image](https://user-images.githubusercontent.com/64395933/210926671-344bb9af-93d0-4969-bd54-b354028e78b6.png)
-![image](https://user-images.githubusercontent.com/64395933/210926683-cea75595-8889-4852-bf14-ebe7ae5840de.png)
-![image](https://user-images.githubusercontent.com/64395933/210926697-73db4405-5dd3-4f68-b286-51a44ae56f7e.png)
-![image](https://user-images.githubusercontent.com/64395933/210926703-bdedbca9-59f7-407c-9683-0aa8f9633ee5.png)
-![image](https://user-images.githubusercontent.com/64395933/210926710-55f6f022-25b3-45a6-8be1-1f95f7f7f510.png)
-![image](https://user-images.githubusercontent.com/64395933/210926763-c6a27928-b3ba-47e7-a0e7-0a052e423575.png)
+![image](https://user-images.githubusercontent.com/64395933/230475782-8b7a0eef-9e3c-48d5-b28d-c671f79153a6.png)
+![image](https://user-images.githubusercontent.com/64395933/230475792-ac24c801-2d1b-40b2-a392-0f6f5d8bb943.png)
+![image](https://user-images.githubusercontent.com/64395933/230475806-48eabba3-cf32-453b-ba87-53d9a9bea4a9.png)
+![image](https://user-images.githubusercontent.com/64395933/230475826-d15abd33-833e-4f4f-b816-87af5cc03cac.png)
+![image](https://user-images.githubusercontent.com/64395933/230475844-80281b31-25e3-4cdf-9f12-84fb408ef5cc.png)
+![image](https://user-images.githubusercontent.com/64395933/230475863-0c08f2bf-bf37-45fb-add7-79453971ab4a.png)
+![image](https://user-images.githubusercontent.com/64395933/230475875-6f2c1b1e-b512-4d39-a70d-976953eff5a5.png)
+![image](https://user-images.githubusercontent.com/64395933/230475939-29cbc95e-5596-4acd-8d1e-945c5ec6f71d.png)
+## Developers / Creators
+- [nonumbershere](https://github.com/nonumbershere/) - Main Developer / Coder
+- [inon-13](https://github.com/inon-13) - Developer / Coder
 
 # Userscript Managers
 **These are a list of the best userscript managers for your supported browsers.**
