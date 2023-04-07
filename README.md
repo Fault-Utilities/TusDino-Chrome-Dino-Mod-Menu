@@ -59,7 +59,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
 
-## Features 0.17.0 (40+ Cheats)
+## Features 0.17.0 (60+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
 - Player Tab
   - Instant Respawn
