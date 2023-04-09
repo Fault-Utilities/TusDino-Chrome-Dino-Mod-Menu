@@ -5,7 +5,7 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 
 **[Get the Auto Updator beta script](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/autoupdate_tusdino.user.js)** - It automatically update the menu for you every time there's an update
 
-[![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) [![Install Autoupdator from Github](https://img.shields.io/badge/Install%20Auotupdater%20Script-Github-blue?style=for-the-badge)]([https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/autoupdate_tusdino.user.js)) [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
+[![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) [![Install Autoupdator from Github](https://img.shields.io/badge/Install%20Auotupdater%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/autoupdate_tusdino.user.js) [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
 
 **You need to install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or any userscript manager or the script wont work**
 
