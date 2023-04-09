@@ -34,3 +34,5 @@ Added Credits & Set Menu scale in Settings
 Added Set Jump Height
 
 Added Set Drop Velocity
+
+Added What's New
