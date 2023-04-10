@@ -1,4 +1,4 @@
-## What's new in the TusDino update 0.17.4
+## What's new in the TusDino update 0.17.0
 New Developer: inon-13
 
 Added Darkmode
