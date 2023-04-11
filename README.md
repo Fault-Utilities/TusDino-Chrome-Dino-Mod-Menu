@@ -1,5 +1,5 @@
 **By [Lapide](https://github.com/nonumbershere/) & [inon-13](https://github.com/inon-13)**
-# TusDino 0.17.0
+# TusDino 0.17.4
 TusDino is the most advanced userscript chrome dino cheat with over 60+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
 ***It would be great if you left a star! It would help with motivation and development.***
 
@@ -16,7 +16,7 @@ TusDino was created by Lapide with the help of inon-13, and designed make the ga
 
 You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
 
-## What's new in 0.17.0
+## What's new in 0.17.4
 - **New Developer: [inon-13](https://github.com/inon-13)**
 - Added Darkmode
 - Changed developer tab to Miscs/Special
@@ -59,7 +59,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
 
-## Features 0.17.0 (60+ Cheats)
+## Features 0.17.4 (60+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
 - Player Tab
   - Instant Respawn
