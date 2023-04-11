@@ -3,6 +3,8 @@ New Developer: inon-13
 
 Added Darkmode
 
+Added Double Dino size
+
 Changed developer tab to Miscs/Special
 
 Moved a lot of cheats to Miscs/Special
@@ -21,4 +23,4 @@ Added Auto Focus
 
 Added Force Focus
 
-Added Credits & Set Menu scale in Settings
+Added Credits & Set Menu scale & Set Menu opacity in Settings
