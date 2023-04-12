@@ -16,11 +16,9 @@ TusDino was created by Lapide with the help of inon-13, and designed make the ga
 
 You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues/new) or [**upload your own version**](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/pulls). If you have any question please ask in the [Discord](https://discord.gg/6eaDrx5J9s)!
 
-## What's new in 0.17.4
+## What's new in 0.17.0
 - **New Developer: [inon-13](https://github.com/inon-13)**
 - Added Darkmode
-- Changed developer tab to Miscs/Special
-- Moved a lot of cheats to Miscs/Special
 - Added Arc
 - Added Instant Respawn
 - Added Glide
@@ -28,7 +26,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - Added Set FPS
 - Added Auto Focus
 - Added Force Focus
-- Added Credits & Set Menu scale in Settings
+- Added Set Menu scale in Settings
 
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended. If you're not on chrome, then you can search for other userscript managers for your browser.
