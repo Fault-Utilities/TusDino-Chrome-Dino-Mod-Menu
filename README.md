@@ -3,6 +3,9 @@
 TusDino is the most advanced userscript chrome dino cheat with over 60+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
 ***It would be great if you left a star! It would help with motivation and development.***
 
+- [Lapide](https://github.com/nonumbershere)
+- [inon-13](https://github.com/inon-13)
+
 **[Get the Auto Updator beta script](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/autoupdate_tusdino.user.js)** - It automatically update the menu for you every time there's an update
 
 [![Install from Github](https://img.shields.io/badge/Install%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/tusdino.user.js) [![Install Autoupdator from Github](https://img.shields.io/badge/Install%20Auotupdater%20Script-Github-blue?style=for-the-badge)](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/raw/main/autoupdate_tusdino.user.js) [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/)
@@ -57,7 +60,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
 
-## Features 0.17.4 (60+ Cheats)
+## Features 0.17.0 (60+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
 - Player Tab
   - Instant Respawn
