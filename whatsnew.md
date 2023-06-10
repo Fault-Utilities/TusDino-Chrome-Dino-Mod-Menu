@@ -1,20 +1,11 @@
-## What's new in the TusDino update 0.17.0
-New Developer: inon-13
-
-Added Darkmode
-
-Added Arc
-
-Added Instant Respawn
-
-Added Glide
-
-UI Change
-
-Added Set FPS
-
-Added Auto Focus
-
-Added Force Focus
-
-Added Set Menu Scale
+## What's new in the TusDino update 0.17.3
+- Slight UI Change: Make texts bolder & Changed the toggle boxs font color to be easier to read
+- Changed tab: Others to Miscs
+- Added What News alert
+- Added Set Double Dino Size
+- Added Continue Death
+- Added Auto Continue Death
+- Added Set Jump Height
+- Added Set Drop Velocity
+- Added Version Checker & Multiple Script Detection
+- Removed a few supported pages
