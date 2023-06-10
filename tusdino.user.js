@@ -4,7 +4,7 @@
 // @homepageURL  https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/
 // @supportURL   https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues
 // @homepage     https://discord.gg/6eaDrx5J9s
-// @version      0.17.0
+// @version      0.17.4
 // @dark-mode    no        -  Enables or disables if you want to active the dark mode instantly when loading the page (on/off)
 // @show-discord no        -  Shows or hides the discord alert message on the start (yes/no)
 // @description  THE BEST CHROME DINO HACK: SET SPEED, KILL PLAYER, ESP EXPLOIT, NO-CLIP, TRACERS, TELEPORT, FLY +MORE EXPLOITS
