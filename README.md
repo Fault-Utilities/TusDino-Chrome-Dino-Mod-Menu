@@ -3,8 +3,8 @@
 <h1><p align="center">TusDino 0.17.3</p></h1>
 <hr>
 
-TusDino is the most advanced userscript chrome dino cheat with over 60+ cheats and that works on almost any dino game website. It was only created as a small and simple fun project by [Lapide](https://github.com/nonumbershere) with help from [inon-13](https://github.com/inon-13). I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
-***It would be great if you left a star! It would help with motivation and development.***
+TusDino is the most advanced userscript chrome dino cheat with over 70+ cheats and that works on almost any dino game website. It was only created as a small and simple fun project by [Lapide](https://github.com/nonumbershere) with help from [inon-13](https://github.com/inon-13). I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
+***It would be great if you left a star! It would help with motivation, more updates and development.***
 
 - [Lapide](https://github.com/nonumbershere)
 
@@ -27,6 +27,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - Added What News alert
 - Added Set Double Dino Size
 - Added Continue Death
+- Added menu opacity changer
 - Added Auto Continue Death
 - Added Set Jump Height
 - Added Set Drop Velocity
@@ -62,7 +63,7 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - https://tuckercraig.com/dino/
 - https://dino-chrome.com/
 
-## Features 0.17.3 (60+ Cheats)
+## Features 0.17.3 (70+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
 - Player Tab
   - Instant Respawn
