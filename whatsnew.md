@@ -4,6 +4,7 @@
 - Added What News alert
 - Added Set Double Dino Size
 - Added Continue Death
+- Added menu opacity changer
 - Added Auto Continue Death
 - Added Set Jump Height
 - Added Set Drop Velocity
