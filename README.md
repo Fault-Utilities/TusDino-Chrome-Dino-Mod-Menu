@@ -52,16 +52,17 @@ You can [**report an issue**](https://github.com/Fault-Utilities/TusDino-Chrome-
 - [Fault Utilities Website](https://fault-utilities.glitch.me/)
 
 ## Supported Sites
-- **https://chromedino.com/** - Preffered Site
-- https://trex-runner.com/
-- https://nointernetgame.com/
-- https://elgoog.im/t-rex/v2/
-- https://www.dinogame.net/
-- https://elgoog.im/t-rex/
-- https://www.dinogame.net/
-- https://elgoog.im/t-rex/
-- https://tuckercraig.com/dino/
+- **https://chromedino.com/** - ***Preferred and most supported site***
 - https://dino-chrome.com/
+- https://tuckercraig.com/dino/
+- https://elgoog.im/t-rex/
+- https://offline-dino-game.firebaseapp.com/
+- https://www.dinogame.net/
+- https://elgoog.im/t-rex/v2/
+- https://nointernetgame.com/
+- https://chromedino.io/
+- https://trex-runner.com/
+- https://fivesjs.skipser.com/trex-game/
 
 ## Features 0.17.4 (70+ Cheats)
 -- **Press 'j' to hide / show the menu.** --
