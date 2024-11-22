@@ -1,9 +1,13 @@
+!! SCRIPT NOT AVALIABLE FOR chrome://dino !!
+
+**If you want to request support for a website on my script, make an [Issue](https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/issues)**
+
 **By [Lapide](https://github.com/nonumbershere/)**
 
 <h1><p align="center">TusDino 0.17.4</p></h1>
 <hr>
 
-TusDino is the most advanced userscript chrome dino cheat with over 70+ cheats and that works on almost any dino game website. It was only created as a small and simple fun project by [Lapide](https://github.com/nonumbershere) with help from [inon-13](https://github.com/inon-13). I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
+TusDino is the most advanced userscript chrome dino cheat with over 70+ cheats and that works on almost any dino game website. It was only created as a small and simple fun project by [Lapide](https://github.com/nonumbershere). I'll probably work on it whenever I feel like it. **You need a userscript manager in order to install the script. I recommend Tampermonkey!** 
 ***It would be great if you left a star! It would help with motivation, more updates and development.***
 
 - [Lapide](https://github.com/nonumbershere)
